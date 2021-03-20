@@ -1,0 +1,184 @@
+<drumkit_info>
+	<name>
+	  forró
+	</name>
+	<author>
+	  Samy Nascimento
+	</author>
+	<info>
+	  This is a forró drumkit with triangle and zabumba.
+	</info>
+	<license>
+	  CC-0
+	</license>
+	<instrumentList>
+		<instrument>
+		<id>0</id>
+		<name>Bacalhau</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>zabumba-bacalhau.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Zabumba Open</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>zabumba-open.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Zabumba Closed</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>zabumba-closed.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Triangle Down-Closed</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>triangle-down-closed.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Triangle Down-Open</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>triangle-down-open.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Triangle Up-Closed</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>triangle-up-closed.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>0</id>
+		<name>Triangle Up-Open</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>triangle-up-open.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+	</instrumentList>
+</drumkit_info>
