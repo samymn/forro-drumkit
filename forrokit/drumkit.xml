@@ -1,16 +1,8 @@
 <drumkit_info>
-	<name>
-	  forró
-	</name>
-	<author>
-	  Samy Nascimento
-	</author>
-	<info>
-	  This is a forró drumkit with triangle and zabumba.
-	</info>
-	<license>
-	  CC-0
-	</license>
+<name>forrokit</name>
+<author>Samy Nascimento</author>
+<info>This is a forró drumkit with triangle and zabumba.</info>
+<license>CC-0</license>
 	<instrumentList>
 		<instrument>
 		<id>0</id>
@@ -37,7 +29,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>1</id>
 		<name>Zabumba Open</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>
@@ -61,7 +53,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>2</id>
 		<name>Zabumba Closed</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>
@@ -85,7 +77,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>3</id>
 		<name>Triangle Down-Closed</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>
@@ -109,7 +101,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>4</id>
 		<name>Triangle Down-Open</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>
@@ -133,7 +125,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>5</id>
 		<name>Triangle Up-Closed</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>
@@ -157,7 +149,7 @@
 		</layer>
 		</instrument>
 		<instrument>
-		<id>0</id>
+		<id>6</id>
 		<name>Triangle Up-Open</name>
 		<volume>1</volume>
 		<isMuted>false</isMuted>

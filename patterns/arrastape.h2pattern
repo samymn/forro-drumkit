@@ -4,7 +4,7 @@
  <author>Samy Nascimento</author>
  <license>CC-0</license>
  <pattern>
-  <name>baiao</name>
+  <name>arrastape</name>
   <info></info>
   <category>forro</category>
   <size>192</size>
@@ -23,7 +23,7 @@
     <probability>1</probability>
    </note>
    <note>
-    <position>0</position>
+    <position>12</position>
     <leadlag>0</leadlag>
     <velocity>0.8</velocity>
     <pan_L>0.5</pan_L>
@@ -31,7 +31,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>4</instrument>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -44,7 +44,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>5</instrument>
+    <instrument>4</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -57,7 +57,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>2</instrument>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -83,7 +83,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>6</instrument>
+    <instrument>2</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>36</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>5</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -96,7 +109,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>4</instrument>
+    <instrument>0</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -122,7 +135,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>5</instrument>
+    <instrument>4</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>72</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -148,7 +174,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>6</instrument>
+    <instrument>2</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>84</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>5</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -166,7 +205,7 @@
     <probability>1</probability>
    </note>
    <note>
-    <position>96</position>
+    <position>108</position>
     <leadlag>0</leadlag>
     <velocity>0.8</velocity>
     <pan_L>0.5</pan_L>
@@ -174,7 +213,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>4</instrument>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -187,7 +226,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>5</instrument>
+    <instrument>4</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -200,7 +239,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>2</instrument>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -226,7 +265,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>6</instrument>
+    <instrument>2</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>132</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>5</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -239,7 +291,7 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>4</instrument>
+    <instrument>0</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -265,7 +317,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>5</instrument>
+    <instrument>4</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>168</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>1</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
@@ -291,7 +356,20 @@
     <pitch>0</pitch>
     <key>C0</key>
     <length>-1</length>
-    <instrument>6</instrument>
+    <instrument>2</instrument>
+    <note_off>false</note_off>
+    <probability>1</probability>
+   </note>
+   <note>
+    <position>180</position>
+    <leadlag>0</leadlag>
+    <velocity>0.8</velocity>
+    <pan_L>0.5</pan_L>
+    <pan_R>0.5</pan_R>
+    <pitch>0</pitch>
+    <key>C0</key>
+    <length>-1</length>
+    <instrument>5</instrument>
     <note_off>false</note_off>
     <probability>1</probability>
    </note>
