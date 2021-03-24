@@ -172,5 +172,53 @@
 		<pitch>0</pitch>
 		</layer>
 		</instrument>
+		<instrument>
+		<id>7</id>
+		<name>Agogo High</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>agogo-high.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
+		<instrument>
+		<id>8</id>
+		<name>Agogo Low</name>
+		<volume>1</volume>
+		<isMuted>false</isMuted>
+		<pan_L>1</pan_L>
+		<pan_R>1</pan_R>
+		<randomPitchFactor>0</randomPitchFactor>
+		<filterActive>false</filterActive>
+		<filterCutoff>1</filterCutoff>
+		<filterResonance>0</filterResonance>
+		<Attack>0</Attack>
+		<Decay>0</Decay>
+		<Sustain>1</Sustain>
+		<Release>1000</Release>
+		<exclude />
+		<layer>
+		<filename>agogo-low.flac</filename>
+		<min>0</min>
+		<max>1</max>
+		<gain>1</gain>
+		<pitch>0</pitch>
+		</layer>
+		</instrument>
 	</instrumentList>
 </drumkit_info>
